@@ -6,3 +6,4 @@ According to Softić and Vejzović's Examination of Windows 10, macOS, and Ubunt
 https://www.sans.org/blog/what-is-cvss
 
 https://ph.pollub.pl/index.php/jcsi/article/view/2935
+https://iopscience.iop.org/article/10.1088/1757-899X/1107/1/012061/pdf
