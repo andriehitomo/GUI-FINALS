@@ -1,1 +1,1 @@
-[# GUI-FINALS](https://www.researchgate.net/profile/Digbijay-Guha/publication/284484799_Windows_10/links/565401c908aeafc2aabb6434/Windows-10.pdf)
+Mukhopadhyay, S., Konar, S., Guha, D., & Banerjee, J. (2015). Windows 10. International Journal of Engineering Technology & Management Research, 3(2).
