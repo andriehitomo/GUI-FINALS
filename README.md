@@ -1,1 +1,1 @@
-Mukhopadhyay, S., Konar, S., Guha, D., & Banerjee, J. (2015). Windows 10. International Journal of Engineering Technology & Management Research, 3(2).
+<img width="668" height="382" alt="image" src="https://github.com/user-attachments/assets/96588a49-fbb8-41cf-bd20-3fcfd20d7809" />
